@@ -1,53 +1,152 @@
-## Hello World! I'm Sri Haratanti 👋
-#### Web Developer | Laravel | Building Practical Digital Solutions
-___
-![Sri Hartanti](<Sri Hartanti’s Cozy Portfolio Workspace.png>)
-
 <!--
-**srihartanti12/srihartanti12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+  GITHUB PROFILE README
+  Repository: srihartanti12/srihartanti12
+-->
 
-Here are some ideas to get you started:-->
+<div align="center">
 
-I'm a Web Developer Intern at Kementerian Koordinator Bidang Pangan Republik Indonesia, with a background in Information Systems and a passion for building reliable, user-friendly web applications.
+<img src="./assets/github-banner.png" width="100%" alt="Sri Hartanti - Full Stack Developer Banner" />
 
-My work and projects focus on web application development, database management, CRUD systems, and interactive dashboards. I enjoy turning operational requirements into practical digital solutions that improve how information is managed and presented.
-____
-💻 What I Do
-- Develop and maintain web applications using Laravel and PHP.
-- Build CRUD features and database-driven systems.
-- Create interactive dashboards and data visualizations.
-- Work with MySQL databases and RESTful APIs.
-- Improve application usability and user interface design.
-- Use Git and GitHub to manage code and collaborate on projects.
+# Hi, I'm Sri Hartanti! 👋
 
-# </>  Tech Stack
-___
-##### Languages
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+### Full-Stack Developer | Information Systems Student
 
-___
-##### Frameworks & Libraries
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+**Building Practical Digital Solutions.**
 
-___
-##### Tools & Others 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<p>
+  <a href="https://github.com/srihartanti12">
+    <img src="https://img.shields.io/badge/GitHub-srihartanti12-181717?style=for-the-badge&logo=github" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_Development-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Always_Learning-0EA5E9?style=for-the-badge" />
+</p>
 
-____
+</div>
 
+---
 
+## `$ whoami`
+
+I'm an Information Systems student at **BINUS University**, passionate about developing practical web applications and solving real-world problems through technology.
+
+Currently gaining professional experience as a **Web Developer Intern at the Ministry of Food Affairs (Kementerian Koordinator Bidang Pangan), Indonesia**.
+
+I enjoy working across the full development lifecycle — from designing user interfaces and building backend systems to managing databases and deploying applications.
+
+```javascript
+const sri = {
+    role: "Full-Stack Developer",
+    education: "Information Systems @ BINUS University",
+    currentlyWorking: "Web Developer Intern",
+    interests: [
+        "Full-Stack Development",
+        "Backend Engineering",
+        "Database Management",
+        "UI/UX & Data Visualization"
+    ],
+    currentlyLearning: [
+        "Software Architecture",
+        "RESTful API Development",
+        "System Design"
+    ],
+    mindset: "Learn. Build. Improve. Repeat."
+};
+```
+
+## `$ tech-stack`
+
+**Languages & Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
+</p>
+
+**Backend & Frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,fastapi" />
+</p>
+
+**Database & Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,git,github,vscode" />
+</p>
+
+**Other Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+</p>
+
+## `$ featured-projects`
+
+### 01. BPK Kinerja / e-TLHP
+
+A web-based application for monitoring and managing audit follow-up activities.
+
+**Key Contributions**
+- Dashboard development and UI improvements.
+- CRUD functionality and database management.
+- Interactive charts and data filtering.
+- Interface improvements for monitoring workflows.
+
+**Tech:** Laravel · PHP · JavaScript · Database Management
+
+<p>
+  <a href="https://github.com/Fatlem/MKDI-BPK_Kinerja_2026_V2">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://etlhp-inspektorat.id/">
+    <img src="https://img.shields.io/badge/Live_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+### 02. SmartHRIS
+
+An information system project focused on human resource management.
+
+### 03. POS & E-Commerce
+
+Web application projects involving business processes, product management, and digital transactions.
+
+> Explore my pinned repositories below to see more of my work.
+
+## `$ github-analytics`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=srihartanti12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srihartanti12&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="90%" src="https://streak-stats.demolab.com?user=srihartanti12&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## `$ currently-exploring`
+
+- Building scalable web applications.
+- Writing cleaner and maintainable code.
+- Understanding software architecture and system design.
+- Improving backend performance and database design.
+- Exploring modern development workflows.
+
+## `$ let's-connect`
+
+I'm open to collaboration, learning opportunities, and exciting projects.
+
+<p align="center">
+  <a href="https://github.com/srihartanti12">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+
+**"Turning ideas into solutions, one line of code at a time."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=100&section=footer" />
+
+</div>
