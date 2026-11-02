@@ -5,8 +5,6 @@
 
 <div align="center">
 
-<img src="./assets/github-banner.png" width="100%" alt="Sri Hartanti - Full Stack Developer Banner" />
-
 # Hi, I'm Sri Hartanti! 👋
 
 ### Full-Stack Developer | Building Practical Digital Solutions.
