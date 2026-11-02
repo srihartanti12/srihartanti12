@@ -108,10 +108,6 @@ A web-based application for monitoring and managing audit follow-up activities.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=srihartanti12&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srihartanti12&layout=compact&theme=tokyonight&hide_border=true" />
-
 <img width="90%" src="https://streak-stats.demolab.com?user=srihartanti12&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -131,7 +127,8 @@ I'm open to collaboration, learning opportunities, and exciting projects.
 <p align="center">
   <a href="https://github.com/srihartanti12">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sri-hartanti-60588922a/">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
