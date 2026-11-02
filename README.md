@@ -8,7 +8,6 @@
 # Hi, I'm Sri Hartanti! 👋
 
 ### Full-Stack Developer | Building Practical Digital Solutions.
-### Full-Stack Developer | Building Practical Digital Solutions.
 
 <p>
   <a href="https://github.com/srihartanti12">
@@ -133,8 +132,6 @@ I'm open to collaboration, learning opportunities, and exciting projects.
   <a href="https://www.linkedin.com/in/sri-hartanti-60588922a/">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-
 </p>
 
 <div align="center">
