@@ -5,10 +5,9 @@
 
 <div align="center">
 
-<img src="./assets/github-banner.png" width="100%" alt="Sri Hartanti - Full Stack Developer Banner" />
-
 # Hi, I'm Sri Hartanti! 👋
 
+### Full-Stack Developer | Building Practical Digital Solutions.
 ### Full-Stack Developer | Building Practical Digital Solutions.
 
 <p>
@@ -26,19 +25,21 @@
 ## `$ whoami`
 
 I'm an Information Systems graduate at **BINUS University**, passionate about developing practical web applications and solving real-world problems through technology.
+I'm an Information Systems graduate at **BINUS University**, passionate about developing practical web applications and solving real-world problems through technology.
 
 Currently gaining professional experience as a **Web Developer Intern at the Ministry of Food Affairs (Kementerian Koordinator Bidang Pangan), Indonesia**.
 
 I enjoy working across the full development lifecycle from designing user interfaces and building backend systems to managing databases and deploying applications.
+I enjoy working across the full development lifecycle from designing user interfaces and building backend systems to managing databases and deploying applications.
 
 ```javascript
 const sri hartanti= {
+const sriHartanti= {
     role: "Full-Stack Developer",
     education: "Information Systems @ BINUS University",
     currentlyWorking: "Web Developer Intern",
     interests: [
         "Full-Stack Development",
-        "Backend Engineering",
         "Database Management",
         "UI/UX & Data Visualization"
     ],
@@ -57,6 +58,7 @@ const sri hartanti= {
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
+</p> 
 </p> 
 
 **Backend & Frameworks**
@@ -127,10 +129,11 @@ I'm open to collaboration, learning opportunities, and exciting projects.
 <p align="center">
   <a href="https://github.com/srihartanti12">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
   <a href="https://www.linkedin.com/in/sri-hartanti-60588922a/">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
 
 </p>
 
