@@ -25,14 +25,14 @@
 
 ## `$ whoami`
 
-I'm an Information Systems student at **BINUS University**, passionate about developing practical web applications and solving real-world problems through technology.
+I'm an Information Systems graduate at **BINUS University**, passionate about developing practical web applications and solving real-world problems through technology.
 
 Currently gaining professional experience as a **Web Developer Intern at the Ministry of Food Affairs (Kementerian Koordinator Bidang Pangan), Indonesia**.
 
-I enjoy working across the full development lifecycle — from designing user interfaces and building backend systems to managing databases and deploying applications.
+I enjoy working across the full development lifecycle from designing user interfaces and building backend systems to managing databases and deploying applications.
 
 ```javascript
-const sri = {
+const sri hartanti= {
     role: "Full-Stack Developer",
     education: "Information Systems @ BINUS University",
     currentlyWorking: "Web Developer Intern",
@@ -57,7 +57,7 @@ const sri = {
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
-</p>
+</p> 
 
 **Backend & Frameworks**
 
@@ -101,13 +101,6 @@ A web-based application for monitoring and managing audit follow-up activities.
   </a>
 </p>
 
-### 02. SmartHRIS
-
-An information system project focused on human resource management.
-
-### 03. POS & E-Commerce
-
-Web application projects involving business processes, product management, and digital transactions.
 
 > Explore my pinned repositories below to see more of my work.
 
@@ -138,7 +131,10 @@ I'm open to collaboration, learning opportunities, and exciting projects.
 <p align="center">
   <a href="https://github.com/srihartanti12">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
 </p>
 
 <div align="center">
