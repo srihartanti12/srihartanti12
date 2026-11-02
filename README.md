@@ -9,9 +9,7 @@
 
 # Hi, I'm Sri Hartanti! 👋
 
-### Full-Stack Developer | Information Systems Student
-
-**Building Practical Digital Solutions.**
+### Full-Stack Developer | Building Practical Digital Solutions.
 
 <p>
   <a href="https://github.com/srihartanti12">
