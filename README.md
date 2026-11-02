@@ -32,7 +32,6 @@ I enjoy working across the full development lifecycle from designing user interf
 I enjoy working across the full development lifecycle from designing user interfaces and building backend systems to managing databases and deploying applications.
 
 ```javascript
-const sri hartanti= {
 const sriHartanti= {
     role: "Full-Stack Developer",
     education: "Information Systems @ BINUS University",
