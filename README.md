@@ -32,20 +32,24 @@ I enjoy working across the full development lifecycle from designing user interf
 I enjoy working across the full development lifecycle from designing user interfaces and building backend systems to managing databases and deploying applications.
 
 ```javascript
-const sriHartanti= {
+const sriHartanti = {
     role: "Full-Stack Developer",
-    education: "Information Systems @ BINUS University",
-    currentlyWorking: "Web Developer Intern",
+    education: "Information Systems Graduate @ BINUS University",
+    currentPosition: "Web Developer Intern",
+
     interests: [
         "Full-Stack Development",
         "Database Management",
-        "UI/UX & Data Visualization"
+        "UI/UX Design",
+        "Data Visualization"
     ],
+
     currentlyLearning: [
         "Software Architecture",
         "RESTful API Development",
         "System Design"
     ],
+
     mindset: "Learn. Build. Improve. Repeat."
 };
 ```
