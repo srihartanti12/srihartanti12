@@ -7,7 +7,10 @@
 
 # Hi, I'm Sri Hartanti! 👋
 
+![Sri Hartanti](<Sri Hartanti’s Cozy Portfolio Workspace.png>)
+
 ### Web Developer | Building Practical Digital Solutions.
+</div>
 
 ---
 
