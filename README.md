@@ -26,11 +26,12 @@ I enjoy working across the full development lifecycle from designing user interf
 
 ```javascript
 const sriHartanti = {
-    role: "Full-Stack Developer",
-    education: "Information Systems Graduate @ BINUS University",
+    role: "Web Developer",
+    education: "Information Systems @ BINUS University",
     currentPosition: "Web Developer Intern",
 
     interests: [
+        "Web Developer",
         "Full-Stack Development",
         "Database Management",
         "UI/UX Design",
