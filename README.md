@@ -7,17 +7,7 @@
 
 # Hi, I'm Sri Hartanti! 👋
 
-### Full-Stack Developer | Building Practical Digital Solutions.
-
-<p>
-  <a href="https://github.com/srihartanti12">
-    <img src="https://img.shields.io/badge/GitHub-srihartanti12-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack_Development-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Always_Learning-0EA5E9?style=for-the-badge" />
-</p>
-
-</div>
+### Web Developer | Building Practical Digital Solutions.
 
 ---
 
