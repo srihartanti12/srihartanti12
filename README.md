@@ -82,32 +82,6 @@ const sriHartanti = {
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 </p>
 
-## `$ featured-projects`
-
-### 01. BPK Kinerja / e-TLHP
-
-A web-based application for monitoring and managing audit follow-up activities.
-
-**Key Contributions**
-- Dashboard development and UI improvements.
-- CRUD functionality and database management.
-- Interactive charts and data filtering.
-- Interface improvements for monitoring workflows.
-
-**Tech:** Laravel · PHP · JavaScript · Database Management
-
-<p>
-  <a href="https://github.com/Fatlem/MKDI-BPK_Kinerja_2026_V2">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://etlhp-inspektorat.id/">
-    <img src="https://img.shields.io/badge/Live_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
-
-
-> Explore my pinned repositories below to see more of my work.
-
 ## `$ github-analytics`
 
 <div align="center">
