@@ -17,12 +17,11 @@
 ## `$ whoami`
 
 I'm an Information Systems graduate at **BINUS University**, passionate about developing practical web applications and solving real-world problems through technology.
-I'm an Information Systems graduate at **BINUS University**, passionate about developing practical web applications and solving real-world problems through technology.
 
 Currently gaining professional experience as a **Web Developer Intern at the Ministry of Food Affairs (Kementerian Koordinator Bidang Pangan), Indonesia**.
 
 I enjoy working across the full development lifecycle from designing user interfaces and building backend systems to managing databases and deploying applications.
-I enjoy working across the full development lifecycle from designing user interfaces and building backend systems to managing databases and deploying applications.
+
 
 ```javascript
 const sriHartanti = {
